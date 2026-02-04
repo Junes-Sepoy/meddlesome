@@ -204,9 +204,9 @@ main {
 
 .footer-left h2 {
     font-family: 'Times New Roman', serif;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: normal;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 
 .email {
@@ -256,7 +256,7 @@ main {
 .social-header {
     font-family: 'wayfinder-cf', serif;
     font-size: 20px;
-    margin-bottom: 8px;
+    margin-bottom: 10px;
     line-height: 1.3;
 }
 
