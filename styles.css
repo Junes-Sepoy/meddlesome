@@ -195,7 +195,7 @@ main {
 .footer-waves {
     position: relative;
     width: 100%;
-    height: 350px;
+    height: 390px;
     margin: 200px 0 0 0;
     overflow: visible;
     background: #1e3a5f;
@@ -399,7 +399,7 @@ main {
     }
     
     .footer-waves {
-        height: 320px;
+        height: 390px;
         margin-top: 150px;
     }
     
